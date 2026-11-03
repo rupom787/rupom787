@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rupom787&label=Profile%20Views&color=800020&style=for-the-badge" alt="Profile Views" />
   <a href="https://rupom-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rupom--portfolio.vercel.app-800020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/rupom787/winget-updater/releases/latest"><img src="https://img.shields.io/badge/Release-v1.5.0%20(Direct%20EXE)-success?style=for-the-badge&logo=windows11&logoColor=white" alt="Latest Release" /></a>
+  <a href="https://github.com/rupom787/winget-updater/releases/latest"><img src="https://img.shields.io/badge/Release-v1.6.0%20(Direct%20EXE)-success?style=for-the-badge&logo=windows11&logoColor=white" alt="Latest Release" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 I am a **Software & Systems Developer** specializing in high-performance desktop applications, modern web platforms, and automated system tooling.
 
-- 🔭 **Featured Software:** [Software & Package Updater for Windows 11](https://github.com/rupom787/winget-updater) — A DirectX 12 hardware-accelerated desktop updater with 4-stage Complete System Update pipeline (Windows Update Agent COM, Winget apps, OEM Drivers & BIOS Companion integration).
+- 🔭 **Featured Software:** [Software & Package Updater for Windows 11](https://github.com/rupom787/winget-updater) — A DirectX 12 hardware-accelerated universal package manager GUI for **WinGet, Scoop, Chocolatey, Pip, Npm, and Microsoft Store** with 4-stage Complete System Update pipeline.
 - 🌐 **Portfolio Website:** [rupom-portfolio.vercel.app](https://rupom-portfolio.vercel.app)
 - ⚡ **Engineering Principles:** Clean velvet aesthetic, zero bloatware, cryptographic integrity verification, and hardware efficiency.
 
@@ -25,7 +25,7 @@ I am a **Software & Systems Developer** specializing in high-performance desktop
 | **Languages** | Python 3.12+, TypeScript, JavaScript (ES6+), C++, PowerShell |
 | **Desktop & Systems** | Windows 11 SDK, DirectX 12 Runtime, DWM Hardware Composition, Windows Update Agent COM |
 | **Web & Cloud** | Next.js, React, Node.js, TailwindCSS, Vercel |
-| **Package Distribution** | Windows Package Manager (`winget`), MSIX/UWP, PyInstaller Native Binary Compilers |
+| **Package Managers** | WinGet, Scoop, Chocolatey, Pip, Npm, MSIX/UWP, PyInstaller Native Binary Compilers |
 
 ---
 
@@ -33,7 +33,7 @@ I am a **Software & Systems Developer** specializing in high-performance desktop
 
 | Repository | Description | Status |
 | :--- | :--- | :--- |
-| [**winget-updater**](https://github.com/rupom787/winget-updater) | Modern Windows 11 Software & Package Updater with DirectX 12 GPU acceleration, 4-stage pipeline, and registry discovery. | ⚡ Latest Release `v1.5.0` |
+| [**winget-updater**](https://github.com/rupom787/winget-updater) | Universal Windows 11 GUI package manager (WinGet, Scoop, Choco, Pip, Npm, Store) with GPU acceleration and 4-stage pipeline. | ⚡ Latest Release `v1.6.0` |
 | [**rupom-portfolio**](https://github.com/rupom787/rupom-portfolio) | Creative Web Designer & Developer Portfolio platform. | 🌐 Live on Vercel |
 | [**research-hub-ui**](https://github.com/rupom787/research-hub-ui) | Modern Research Hub UI Platform. | 🧪 Active |
 | [**humanova**](https://github.com/rupom787/humanova) | Advanced Humanova platform experience. | 🚀 Active |
